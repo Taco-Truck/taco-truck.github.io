@@ -4,7 +4,7 @@
   Hey!
   </h1>
   <h3>
-  This is just the beta version of our development more to come!
+  This is just the beta version of our development, more to come!
   <br>
   <br>
   <a href="https://www.tiktok.com/@tacotruckgaming">Tiktok</a>
