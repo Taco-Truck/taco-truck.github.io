@@ -1,8 +1,6 @@
 <html>
 <center>
-  <h1>
-  Hello, Did you know?
-  </h1>
+  <img src="takotruk.png" alt="logo">
   <h3>
   This is just the beta version of our development, more to come!
   <br>
