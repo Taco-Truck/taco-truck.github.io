@@ -1,0 +1,11 @@
+h1{font-family: Verdana;
+text-align: center;
+}
+button{background-color: #F39C12;
+transition: transform .2s;
+border: 4px solid;
+border-color: Black;}
+button:hover{background-color: #F5B041;
+transform:scale(1.5);
+border-color: black;}
+h2{font-family: verda
