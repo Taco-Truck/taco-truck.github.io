@@ -8,4 +8,7 @@ border-color: Black;}
 button:hover{background-color: #F5B041;
 transform:scale(1.5);
 border-color: black;}
-h2{font-family: verda
+h2{font-family: verdana;}
+body{font-family: verdana;
+text-align: center;
+background-color: #F39C12; }
