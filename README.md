@@ -2,7 +2,7 @@
 <center>
   <img src="takotruk.png" alt="logo">
   <h3>
-  This is taco truck we are very busy and we are currently working on a v2 the launch date i until apil or sooner!
+  This is taco truck we are very busy and we are currently working on a v2 the launch date i until april or sooner!
   <br>
   <br>
   <a href="https://www.tiktok.com/@tacotruckgaming">Tiktok</a>
