@@ -11,4 +11,5 @@ border-color: black;}
 h2{font-family: verdana;}
 body{font-family: verdana;
 text-align: center;
-background-color: #F39C12; }
+background-color: #F39C12; 
+border-radius: 5px;}
