@@ -21,8 +21,8 @@ body{background-color: orange;
 font-family: verdana;}
 img{float: center;
 transition: transform .2s;
-height: 30px;
-width: 50px;}
+height: 190px;
+width: 200px;}
 img:hover{transition: scale(.9);}
 h3{text-align: center;}
 
