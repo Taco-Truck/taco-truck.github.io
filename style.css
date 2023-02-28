@@ -23,6 +23,6 @@ img{float: center;
 transition: transform .2s;
 height: 190px;
 width: 200px;}
-img:hover{transition: scale(.9);}
+img:hover{transform: scale(.9);}
 h3{text-align: center;}
 
